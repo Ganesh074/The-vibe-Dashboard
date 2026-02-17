@@ -79,17 +79,3 @@ npm run dev
 
 ### `GET /api/items?search=value`
 Fetches items. Supports optional search filtering on `name` and `description`.
-
----
-
-## 📝 Submission Checklist
-
-- [x] **Backend API**: Node.js/Express with Search support.
-- [x] **Frontend UI**: Next.js + Tailwind with Glassmorphism.
-- [x] **Persistence**: MongoDB Atlas integration.
-- [x] **README**: Clear instructions and project overview.
-- [x] **Separation of Concerns**: Clean architecture (Route -> Service -> Model).
-
-**Deadline**: 18 FEB 2026  
-**Candidate**: Ganesh Nakkina  
-**Target**: Ravulapati Techub PVT LTD - Technical Bridge Task
